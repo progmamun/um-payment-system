@@ -15,3 +15,6 @@ Copy `.env.example` to `.env`
 yarn dev
 ```
 
+====
+
+- npx prisma db push
